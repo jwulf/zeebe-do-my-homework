@@ -1,10 +1,14 @@
 # How to get help with Zeebe
 
-Hi, I'm Josh Wulf, Camunda's Developer Advocate for [Zeebe](https://zeebe.io). I am committed to empower developers to be productive and happy creating awesome systems using Zeebe.
+Hi, I'm Josh Wulf, Camunda's Developer Advocate for [Zeebe](https://zeebe.io). I am committed to empower developers to be productive and happy creating systems using Zeebe.
 
 I usually work from Brisbane, Australia (GMT +10). I'm available in the [Zeebe Slack](https://zeebe-slack-invite.herokuapp.com/).
 
 Along with the core developers of Zeebe who hang out in the Zeebe Slack, I'm available to help you get up to speed with your Zeebe development. Part of my role is solving these problems not only for you, but also for other developers in the future. The core devs make Zeebe a great orchestration engine for microservices, and I'm accountable for making it easy and fun to program against for developers.
+
+Zeebe is in developer preview, so we don't have an SLA for support. This support channel is a community initiative. If you need guaranteed response times, reach out to Mike Winters, and he'll put you in touch with our sales team to get that conversation started.
+
+In the meantime: 
 
 The best way to formulate a question is to provide a "minimal reproducer" that demonstrates the issue that you are having, and send me the link.
 
