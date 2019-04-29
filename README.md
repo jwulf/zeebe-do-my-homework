@@ -6,7 +6,7 @@ I usually work from Brisbane, Australia (GMT +10). I'm available in the [Zeebe S
 
 Along with the core developers of Zeebe who hang out in the Zeebe Slack, I'm available to help you get up to speed with your Zeebe development. Part of my role is solving these problems not only for you, but also for other developers in the future. The core devs make Zeebe a great orchestration engine for microservices, and I'm accountable for making it easy and fun to program against for developers.
 
-Zeebe is in developer preview, so we don't have an SLA for support. This support channel is a community initiative. If you need guaranteed response times, reach out to Mike Winters, and he'll put you in touch with our sales team to get that conversation started.
+We don't have an SLA on support for Zeebe, and this support channel is a community initiative. At some point in the future, we plan to offer an enterprise edition of Zeebe that _will_ include a support SLA. If enterprise support for Zeebe is something you're interested in, you can reach out to Zeebe PM Mike Winters (michael.winters@camunda.com) for more information. 
 
 In the meantime: 
 
